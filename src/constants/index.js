@@ -3,8 +3,8 @@ import {
   carrent,
   creator,
   css,
-  drumKit,
   docker,
+  drumKit,
   figma,
   git,
   html,
@@ -19,14 +19,13 @@ import {
   redux,
   restaurauntRes,
   shopify,
-  Thinkful,
+  starbucks,
   tailwind,
   tesla,
   threejs,
   tripguide,
   typescript,
-  web,
-  Thinkful
+  web
 } from "../assets";
 
 export const navLinks = [
@@ -110,7 +109,7 @@ const experiences = [
   {
     title: "Software Engineer",
     company_name: "Thinkful",
-    icon: Thinkful,
+    icon: starbucks,
     iconBg: "#383E56",
     date: "Oct 2022 - March 2023",
     points: [
